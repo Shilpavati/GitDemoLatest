@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83" started-at="2021-01-05T20:36:46 IST" finished-at="2021-01-05T20:36:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="83" started-at="2021-01-05T20:36:46 IST" finished-at="2021-01-05T20:36:47 IST">
+      <class name="QAClickAcademy.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:QAClickAcademy.MavenJava.SeleniumTest@48503868]" name="BrowserAutomation" duration-ms="7" started-at="2021-01-05T20:36:47 IST" finished-at="2021-01-05T20:36:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:QAClickAcademy.MavenJava.SeleniumTest@48503868]" name="elementsUI" duration-ms="1" started-at="2021-01-05T20:36:47 IST" finished-at="2021-01-05T20:36:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- QAClickAcademy.MavenJava.SeleniumTest -->
+      <class name="QAClickAcademy.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:QAClickAcademy.MavenJava.RestAPITest@184f6be2]" name="deleteTwitter" duration-ms="1" started-at="2021-01-05T20:36:47 IST" finished-at="2021-01-05T20:36:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJIRA()[pri:0, instance:QAClickAcademy.MavenJava.RestAPITest@184f6be2]" name="postJIRA" duration-ms="0" started-at="2021-01-05T20:36:47 IST" finished-at="2021-01-05T20:36:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJIRA -->
+      </class> <!-- QAClickAcademy.MavenJava.RestAPITest -->
+      <class name="QAClickAcademy.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:QAClickAcademy.MavenJava.AppiumTest@6895a785]" name="IOSApps" duration-ms="1" started-at="2021-01-05T20:36:47 IST" finished-at="2021-01-05T20:36:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:QAClickAcademy.MavenJava.AppiumTest@6895a785]" name="NativeAppAndroid" duration-ms="1" started-at="2021-01-05T20:36:47 IST" finished-at="2021-01-05T20:36:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- QAClickAcademy.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
